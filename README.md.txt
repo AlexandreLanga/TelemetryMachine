@@ -79,8 +79,9 @@ Navegue até a pasta do frontend:
 
 📍 Observações Importantes
 1. O projeto aceita coordenadas reais. Exemplo:
-   Rua João Zani, 450D – Bairro Maria Goretti → aproximadamente:
-   latitude: -27.0947, longitude: -52.6158
+   Local: Museu do Amanhã – Rio de Janeiro
+   latitude: -22.8940
+   longitude: -43.1806
 2. O projeto salva os dados da aplicação em memória no backend, ao abrir o projeto deve ser inserido registros para testes.
 3. Os dados são mantidos em memória pelo backend. Como não há banco de dados persistente, os códigos das máquinas são gerados automaticamente e podem ser visualizados na aba View.
 4. Os campos do formulário tem validações:
