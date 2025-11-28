@@ -1,0 +1,6 @@
+@MachineTelemetryAPI_HostAddress = http://localhost:5210
+
+GET {{MachineTelemetryAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

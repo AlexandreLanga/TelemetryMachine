@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\MachineCRUD\\Backend\\MachineTelemetryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DF23EC-79EB-489E-8844-175501EEB1A9}|MachineTelemetryAPI.csproj|c:\\projetos\\machinecrud\\backend\\machinetelemetryapi\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DF23EC-79EB-489E-8844-175501EEB1A9}|MachineTelemetryAPI.csproj|solutionrelative:controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MachineController.cs",
+              "DocumentMoniker": "C:\\Projetos\\MachineCRUD\\Backend\\MachineTelemetryAPI\\Controllers\\MachineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MachineController.cs",
+              "ToolTip": "C:\\Projetos\\MachineCRUD\\Backend\\MachineTelemetryAPI\\Controllers\\MachineController.cs",
+              "RelativeToolTip": "Controllers\\MachineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:18:46.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

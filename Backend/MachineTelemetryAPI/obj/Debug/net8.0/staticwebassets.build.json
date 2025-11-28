@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YiC9ak5w0OJBCcydfzuLTNhBrBwocnkeVhHQGmpRslw=",
+  "Source": "MachineTelemetryAPI",
+  "BasePath": "_content/MachineTelemetryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
